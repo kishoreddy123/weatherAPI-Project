@@ -1,0 +1,45 @@
+body {
+    background-color: #a75c07;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.cName {
+    margin-top: 50px;
+}
+.heading {
+    margin-top: 150px;
+}
+.btn_gps {
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.diaplyTemp {
+    margin-bottom: 10px;
+}
+.mainCon {
+    border: 5px solid teal;
+    /* margin: 150px 500px; */
+    margin-left: 500px;
+    margin-right: 500px;
+    position: absolute;
+}
+.min_max {
+    margin: 0 15px;
+}
+.min_max {
+    position: relative;
+}
+input {
+    padding: 5px 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #662a07;
+    font-weight: 700;
+}
+button {
+    padding: 5px 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    
+}
